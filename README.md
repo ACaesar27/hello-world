@@ -1,2 +1,2 @@
 # hello-world
-initial repo to dive and learn GitHub
+initial repo to dive into and learn GitHub
